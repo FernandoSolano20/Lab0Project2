@@ -1,0 +1,5 @@
+C:\Users\fersolano\Desktop\Lab0\Bot\POJOS\bin\Debug\POJOS.dll
+C:\Users\fersolano\Desktop\Lab0\Bot\POJOS\bin\Debug\POJOS.pdb
+C:\Users\fersolano\Desktop\Lab0\Bot\POJOS\obj\Debug\POJOS.csprojAssemblyReference.cache
+C:\Users\fersolano\Desktop\Lab0\Bot\POJOS\obj\Debug\POJOS.dll
+C:\Users\fersolano\Desktop\Lab0\Bot\POJOS\obj\Debug\POJOS.pdb

@@ -1,0 +1,17 @@
+C:\Users\fersolano\Desktop\Lab0\Bot\ClientForm\bin\Debug\ClientForm.exe.config
+C:\Users\fersolano\Desktop\Lab0\Bot\ClientForm\bin\Debug\ClientForm.exe
+C:\Users\fersolano\Desktop\Lab0\Bot\ClientForm\bin\Debug\ClientForm.pdb
+C:\Users\fersolano\Desktop\Lab0\Bot\ClientForm\bin\Debug\MetroFramework.Design.dll
+C:\Users\fersolano\Desktop\Lab0\Bot\ClientForm\bin\Debug\MetroFramework.dll
+C:\Users\fersolano\Desktop\Lab0\Bot\ClientForm\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\fersolano\Desktop\Lab0\Bot\ClientForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fersolano\Desktop\Lab0\Bot\ClientForm\bin\Debug\POJOS.dll
+C:\Users\fersolano\Desktop\Lab0\Bot\ClientForm\bin\Debug\POJOS.pdb
+C:\Users\fersolano\Desktop\Lab0\Bot\ClientForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fersolano\Desktop\Lab0\Bot\ClientForm\obj\Debug\ClientForm.csprojAssemblyReference.cache
+C:\Users\fersolano\Desktop\Lab0\Bot\ClientForm\obj\Debug\ClientForm.Form1.resources
+C:\Users\fersolano\Desktop\Lab0\Bot\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+C:\Users\fersolano\Desktop\Lab0\Bot\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+C:\Users\fersolano\Desktop\Lab0\Bot\ClientForm\obj\Debug\ClientForm.csproj.CopyComplete
+C:\Users\fersolano\Desktop\Lab0\Bot\ClientForm\obj\Debug\ClientForm.exe
+C:\Users\fersolano\Desktop\Lab0\Bot\ClientForm\obj\Debug\ClientForm.pdb
